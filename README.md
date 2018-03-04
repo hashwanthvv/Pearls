@@ -1,4 +1,4 @@
-#Pearl's Algorithm on Breast Cancer
+# Pearl's Algorithm on Breast Cancer
 
 This repository contains the MATLAB codes to implement the Belief Propagation algorithm on the Breast Cancer Pathway.
 
